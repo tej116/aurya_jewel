@@ -1,5 +1,6 @@
 {
   "include": [
+    "next-env.d.ts",
     "eslint.config.js",
     "src/**/*.ts",
     "src/**/*.tsx",

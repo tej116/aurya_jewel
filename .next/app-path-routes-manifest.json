@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/appointment/page": "/appointment",
+  "/collections/[category]/page": "/collections/[category]",
+  "/product/[slug]/page": "/product/[slug]",
+  "/contact/page": "/contact",
+  "/about/page": "/about",
+  "/page": "/"
+}
